@@ -1,7 +1,7 @@
 {
     "owners": {
       "1": {
-        "hash": "49be717e78e6ff888040efc119d22b0840d948a56fe1410a9760a2915919a8fbc0aa10b50ed54ba55593ba7a026c521dd00c523000dbb090d554f8768a19da98",
+        "hash": "355397bd755efe89afbe37f46a8602d508fcf09e08c1b6fffc846cd363fe6fa31475303774b3f33318bd3bd4fe15c6970c7af1d150b0fb95a40b7d4f5e7ca504",
         "invulnerable": true
       },
       "2": {
@@ -14,7 +14,7 @@
       }
     },
     "chattags": {
-      "49be717e78e6ff888040efc119d22b0840d948a56fe1410a9760a2915919a8fbc0aa10b50ed54ba55593ba7a026c521dd00c523000dbb090d554f8768a19da98": {
+      "355397bd755efe89afbe37f46a8602d508fcf09e08c1b6fffc846cd363fe6fa31475303774b3f33318bd3bd4fe15c6970c7af1d150b0fb95a40b7d4f5e7ca504": {
         "NameColor": {
           "r": 200,
           "g": 80,
